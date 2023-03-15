@@ -2,7 +2,7 @@
 
 A simple Management System that Stores emplyees attendance.
 
-# USage
+# Usage
 
 1. Clone the repository
 2. Create a SQL file and add the sql code from `process_form.php`
